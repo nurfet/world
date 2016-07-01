@@ -1,2 +1,3 @@
 # world
-JavaScript
+J
+JavaScript interpreter based on SpiderMonkey
